@@ -1,2 +1,28 @@
-/* Inserta tu CSS aqui */
+.solito	{
+	background-color: gray;
+	height: 250px;
+	width: 250px;
+	border:1px solid black;
+}
+.contenedor	{
+	padding: 10px;
+	background-color: gray;
+	border: 1px solid black;
+	margin-top: 10px;
+	display:inline-block;
 
+}
+.contenedor div 	{
+	display: inline-block;
+	margin:10px;
+}
+
+.amigos 	{
+	background-color: gray;
+	display:inline-block;
+	margin-top: 20px;
+	margin-right: 20px;
+}
+.ultimo 	{
+	margin-top: 20px;
+}
